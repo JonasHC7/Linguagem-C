@@ -11,11 +11,11 @@ int main(){
 
     // Colhendo os valores do Usúario
     printf("Digite o numero:  \n");
-    /*Armazenado dentro de "valor_digitado" o numero que o usuário iseriu, que por sua vez está 
-    atribuindo um valor as variáveis criadas*/ 
+    /*O número digitado pelo usuário é armazenado na variável valor_digitado, 
+    que, por sua vez, atribui um valor às variáveis criadas.*/ 
     scanf("%d", &valor_digitado); 
 
-    // Resalizando a multiplicação
+    // Realizando a multiplicação
     for (i = 1; i <= 10; i++)
     {
         printf("%d x %d = %d \n", valor_digitado, i, valor_digitado * i);
