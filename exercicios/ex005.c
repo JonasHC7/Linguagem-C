@@ -11,11 +11,11 @@ int main(){
 
     // Colhendo os valores do Usúario
     printf("Digite o numero:  \n");
-    /*Armazenado dentro de "valor_digitado" o numero que o usuário iseriu, que por sua ves está 
+    /*Armazenado dentro de "valor_digitado" o numero que o usuário iseriu, que por sua vez está 
     atribuindo um valor as variáveis criadas*/ 
     scanf("%d", &valor_digitado); 
 
-    // Resalizando a multiplicação para a tabuada
+    // Resalizando a multiplicação
     for (i = 1; i <= 10; i++)
     {
         printf("%d x %d = %d \n", valor_digitado, i, valor_digitado * i);
