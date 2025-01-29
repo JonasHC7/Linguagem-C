@@ -9,10 +9,8 @@ int main(){
     // Nomeando as Variaveis
     int valor_digitado, i;
 
-    // Colhendo os valores do Usúario
-    printf("Digite o numero:  \n");
-    /*O número digitado pelo usuário é armazenado na variável valor_digitado, 
-    que, por sua vez, atribui um valor às variáveis criadas.*/ 
+    // Inserindo e recebendo o valor digitado
+    printf("Digite o numero:  \n"); 
     scanf("%d", &valor_digitado); 
 
     // Realizando a multiplicação
