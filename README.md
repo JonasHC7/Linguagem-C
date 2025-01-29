@@ -29,8 +29,8 @@ Exercícios Realizados
    
 6. Tabuada
 
-Este programa solicita ao usuário um número e, em seguida, exibe a tabuada desse número de 1 a 10. O valor é inserido pelo usuário e a multiplicação é realizada dentro de um laço for, mostrando o resultado no formato: "número x i = resultado".
+    Este programa solicita ao usuário um número e, em seguida, exibe a tabuada desse número de 1 a 10. O valor é inserido pelo usuário e a multiplicação é realizada dentro de um laço        for, mostrando o resultado no formato: "número x i = resultado".
 
 7. Sistema de Notas
 
-Este programa permite que o usuário insira as notas de três provas e calcula a média final do aluno. As notas são inseridas pelo usuário como valores float, e a média é calculada pela soma das notas dividida por três. O resultado da média é exibido com duas casas decimais.
+    Este programa permite que o usuário insira as notas de três provas e calcula a média final do aluno. As notas são inseridas pelo usuário como valores float, e a média é calculada        pela soma das notas dividida por três. O resultado da média é exibido com duas casas decimais.
